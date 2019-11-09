@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "symbol": "\u2615",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 2,
+    "symbol": "\u2618",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 3,
+    "symbol": "\u26f1",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 4,
+    "symbol": "\u26f0",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 5,
+    "symbol": "\u2622",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 6,
+    "symbol": "\u2639",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 7,
+    "symbol": "\u263a",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 8,
+    "symbol": "\u263e",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 9,
+    "symbol": "\u2600",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 10,
+    "symbol": "\u2623",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 11,
+    "symbol": "\u26c8",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 12,
+    "symbol": "\u26D4",
+    "elemClass": "game-cell-symbol"
+  }
+  ,  {
+    "id": 13,
+    "symbol": "\u265e",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 14,
+    "symbol": "\u263c",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 15,
+    "symbol": "\u2620",
+    "elemClass": "game-cell-symbol"
+  },
+  {
+    "id": 16,
+    "symbol": "\u262f",
+    "elemClass": "game-cell-symbol"
+  }
+]

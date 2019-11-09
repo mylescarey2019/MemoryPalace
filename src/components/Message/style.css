@@ -1,0 +1,13 @@
+#message {
+  position: absolute;
+  top: 250px;
+  right: 30px;
+  width: 350px;
+  text-align: center;
+  height: 30px;
+
+
+  /* background-color: #e5e5e5;
+  border-radius: 5px;
+  padding: 2px 5px 2px 5px; */
+}
