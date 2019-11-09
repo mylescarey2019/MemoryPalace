@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MemoryPalace/static/css/main.ae2befcc.chunk.css",
+    "main.js": "/MemoryPalace/static/js/main.b55fc351.chunk.js",
+    "main.js.map": "/MemoryPalace/static/js/main.b55fc351.chunk.js.map",
+    "runtime-main.js": "/MemoryPalace/static/js/runtime-main.d3c180f2.js",
+    "runtime-main.js.map": "/MemoryPalace/static/js/runtime-main.d3c180f2.js.map",
+    "static/js/2.fda1d886.chunk.js": "/MemoryPalace/static/js/2.fda1d886.chunk.js",
+    "static/js/2.fda1d886.chunk.js.map": "/MemoryPalace/static/js/2.fda1d886.chunk.js.map",
+    "index.html": "/MemoryPalace/index.html",
+    "precache-manifest.262e416ecd3e87aed7031ac98e638e4f.js": "/MemoryPalace/precache-manifest.262e416ecd3e87aed7031ac98e638e4f.js",
+    "service-worker.js": "/MemoryPalace/service-worker.js",
+    "static/css/main.ae2befcc.chunk.css.map": "/MemoryPalace/static/css/main.ae2befcc.chunk.css.map",
+    "static/media/style.css": "/MemoryPalace/static/media/martin-jernberg-nE2gf1scItI-unsplash2.0e33c6da.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3c180f2.js",
+    "static/js/2.fda1d886.chunk.js",
+    "static/css/main.ae2befcc.chunk.css",
+    "static/js/main.b55fc351.chunk.js"
+  ]
+}
