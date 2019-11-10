@@ -15,7 +15,7 @@ This React.js web page is a simply memory game where the object is to select all
 
 #### Github project :    <a href="https://github.com/mylescarey2019/MemoryPalace">Memory Palace Repository</a>
 
-#### Deployed GitHub Pages link:  <a href="">Memory Palace</a>
+#### Deployed GitHub Pages link:  <a href="https://mylescarey2019.github.io/MemoryPalace/">Memory Palace</a>
 
 #### Design Detail - React.js methodology
 
