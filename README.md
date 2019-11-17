@@ -31,7 +31,7 @@ This React.js web page is a simply memory game where the object is to select all
   - [x] new high score
   - [x] randomized shuffle and rotation
 
-![demo](./public/demo.gif)
+![demo](./demo.gif)
 
 
 
@@ -39,7 +39,7 @@ This React.js web page is a simply memory game where the object is to select all
 
 home page
 
-![home-page-img](./public/main-page-img.png)
+![home-page-img](./main-page-img.png)
 
 
 
